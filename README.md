@@ -13,13 +13,4 @@ Here are some ideas to get you started:
 </img>
 <img align="right" height=200em width="40%" src="https://github-readme-stats.vercel.app/api?username=senthil2000-dev&count_private=true&show_icons=true&theme=dark&text_color=ffffff&hide_border=true&include_all_commits=true">
 </img>
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-<div align="center">
-  <img
-    src="https://activity-graph.herokuapp.com/graph?username=senthil2000-dev&theme=dark&bg_color=20232a&hide_border=true&area=true"
-    alt="Contributions plot"
-    width="75%"
-    align="center"
-  />
-</div>
 
