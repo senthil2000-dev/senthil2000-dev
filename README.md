@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I am currently working on Django
-- 📫 How to reach me: Drop a message on [LinkedIn](https://www.linkedin.com/in/senthil-nathan-s-84205b1a7/)
+- 📫 How to reach me: Drop a message on [LinkedIn](https://www.linkedin.com/in/senthilnathan-sundar/)
 - 😄 Pronouns: He/His
 
 <img align="left" height=200em width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthil2000-dev&hide=css,html&theme=dark&text_color=ffffff&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
